@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OperationRisingLion/static/css/main.66a77d6c.css",
+    "main.js": "/OperationRisingLion/static/js/main.be79b1f3.js",
+    "static/js/453.17fdcc8e.chunk.js": "/OperationRisingLion/static/js/453.17fdcc8e.chunk.js",
+    "index.html": "/OperationRisingLion/index.html",
+    "main.66a77d6c.css.map": "/OperationRisingLion/static/css/main.66a77d6c.css.map",
+    "main.be79b1f3.js.map": "/OperationRisingLion/static/js/main.be79b1f3.js.map",
+    "453.17fdcc8e.chunk.js.map": "/OperationRisingLion/static/js/453.17fdcc8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a77d6c.css",
+    "static/js/main.be79b1f3.js"
+  ]
+}
