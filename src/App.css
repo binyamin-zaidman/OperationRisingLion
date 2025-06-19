@@ -9,17 +9,17 @@
   }
 }
 
-#helloMan{
+#helloMan {
   font-size: 2em;
- 
+
 }
 
-#name{
+#name {
   height: 30px;
   width: 200px;
 }
 
-#button{
+#button {
   height: 30px;
   width: 100px;
   color: white;
@@ -28,6 +28,7 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
 .App-header {
   min-height: 100vh;
   display: flex;
@@ -38,5 +39,3 @@
   color: black;
   gap: 20px;
 }
-
-
